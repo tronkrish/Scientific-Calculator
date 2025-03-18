@@ -2,7 +2,7 @@
 🚀 A fully functional Scientific Calculator built using React.js. This project provides essential arithmetic operations along with advanced mathematical functions.
 
 🔗 Live Demo
-👉 Scientific Calculator
+👉 Scientific Calculator - https://tronkrish.github.io/Scientific-Calculator/
 
 📜 Features
 ✅ Basic arithmetic operations (+, -, ×, ÷)
